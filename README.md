@@ -1,5 +1,5 @@
 # CIFAR_10_Object_Recognition
-## This model Classify 10 different objects, which are,
+## This model classify 10 different objects, which are,
 ### 1. Airplane
 ### 2. Automobile
 ### 3. Bird
